@@ -1,0 +1,8 @@
+LOAD 5;
+LOAD 10;
+ADD 10;
+PRT;
+PRT;
+ADD 1;
+LOAD 2;
+PRT;

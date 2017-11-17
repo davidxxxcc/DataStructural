@@ -1,0 +1,7 @@
+D:\C#\DataStructure\ExternalSort\ExternalSort\bin\Debug\ExternalSort.exe.config
+D:\C#\DataStructure\ExternalSort\ExternalSort\bin\Debug\ExternalSort.exe
+D:\C#\DataStructure\ExternalSort\ExternalSort\bin\Debug\ExternalSort.pdb
+D:\C#\DataStructure\ExternalSort\ExternalSort\obj\Debug\ExternalSort.csprojResolveAssemblyReference.cache
+D:\C#\DataStructure\ExternalSort\ExternalSort\obj\Debug\ExternalSort.csproj.CoreCompileInputs.cache
+D:\C#\DataStructure\ExternalSort\ExternalSort\obj\Debug\ExternalSort.exe
+D:\C#\DataStructure\ExternalSort\ExternalSort\obj\Debug\ExternalSort.pdb

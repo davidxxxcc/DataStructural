@@ -1,0 +1,3 @@
+LOAD 3;
+ADD d 10;
+PRT;

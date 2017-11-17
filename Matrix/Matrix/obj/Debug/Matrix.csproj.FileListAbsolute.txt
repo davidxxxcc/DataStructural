@@ -1,0 +1,2 @@
+D:\C#\DataStructure\Matrix\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+D:\C#\DataStructure\Matrix\Matrix\obj\Debug\Matrix.csproj.CoreCompileInputs.cache

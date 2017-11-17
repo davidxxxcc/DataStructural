@@ -1,0 +1,7 @@
+D:\C#\DataStructure\StackMaze\StackMaze\StackMaze\obj\Debug\StackMaze.csprojResolveAssemblyReference.cache
+D:\C#\DataStructure\StackMaze\StackMaze\StackMaze\obj\Debug\StackMaze.csproj.CoreCompileInputs.cache
+D:\C#\DataStructure\StackMaze\StackMaze\StackMaze\bin\Debug\StackMaze.exe.config
+D:\C#\DataStructure\StackMaze\StackMaze\StackMaze\bin\Debug\StackMaze.exe
+D:\C#\DataStructure\StackMaze\StackMaze\StackMaze\bin\Debug\StackMaze.pdb
+D:\C#\DataStructure\StackMaze\StackMaze\StackMaze\obj\Debug\StackMaze.exe
+D:\C#\DataStructure\StackMaze\StackMaze\StackMaze\obj\Debug\StackMaze.pdb

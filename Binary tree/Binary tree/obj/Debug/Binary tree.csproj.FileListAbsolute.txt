@@ -1,0 +1,7 @@
+D:\C#\DataStructure\Binary tree\Binary tree\bin\Debug\Binary tree.exe.config
+D:\C#\DataStructure\Binary tree\Binary tree\bin\Debug\Binary tree.exe
+D:\C#\DataStructure\Binary tree\Binary tree\bin\Debug\Binary tree.pdb
+D:\C#\DataStructure\Binary tree\Binary tree\obj\Debug\Binary tree.csprojResolveAssemblyReference.cache
+D:\C#\DataStructure\Binary tree\Binary tree\obj\Debug\Binary tree.csproj.CoreCompileInputs.cache
+D:\C#\DataStructure\Binary tree\Binary tree\obj\Debug\Binary tree.exe
+D:\C#\DataStructure\Binary tree\Binary tree\obj\Debug\Binary tree.pdb

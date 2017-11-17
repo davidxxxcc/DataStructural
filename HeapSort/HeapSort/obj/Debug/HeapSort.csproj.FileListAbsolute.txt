@@ -1,0 +1,7 @@
+D:\C#\DataStructure\HeapSort\HeapSort\obj\Debug\HeapSort.csprojResolveAssemblyReference.cache
+D:\C#\DataStructure\HeapSort\HeapSort\obj\Debug\HeapSort.csproj.CoreCompileInputs.cache
+D:\C#\DataStructure\HeapSort\HeapSort\bin\Debug\HeapSort.exe.config
+D:\C#\DataStructure\HeapSort\HeapSort\bin\Debug\HeapSort.exe
+D:\C#\DataStructure\HeapSort\HeapSort\bin\Debug\HeapSort.pdb
+D:\C#\DataStructure\HeapSort\HeapSort\obj\Debug\HeapSort.exe
+D:\C#\DataStructure\HeapSort\HeapSort\obj\Debug\HeapSort.pdb
